@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=xpos\ ypos\ xvel\ yvel\ diameter
+comment0.target=Booster(double,\ double,\ double,\ double,\ int)
+comment1.params=dt
+comment1.target=void\ update(long)
+numComments=2

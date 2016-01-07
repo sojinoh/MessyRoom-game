@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=xpos\ ypos\ xvel\ yvel\ diameter
+comment0.target=Cockcroach(double,\ double,\ double,\ double,\ double)
+comment1.params=dt
+comment1.target=void\ update(long)
+numComments=2
