@@ -1,6 +1,9 @@
+![alt tag](./screenshot.png)
+
 WHAT IS MESSY ROOM?
 
-:My friend’s dirty room motivated me to makeMessy Room game. The game aims to clean the entire room with the vacuum cleaner by avoiding the cockroaches. Vacuum cleaner is controllable with the arrow keys and the ‘z’ key is used to clean the room. There are several items that help cleaning the room. Some items disappear after a certain time. When the first stage is cleaned, the number of cockroaches increases.
+:My friend’s dirty room motivated me to make
+Messy Room game. The game aims to clean the entire room with the vacuum cleaner by avoiding the cockroaches. Vacuum cleaner is controllable with the arrow keys and the ‘z’ key is used to clean the room. There are several items that help cleaning the room. Some items disappear after a certain time. When the first stage is cleaned, the number of cockroaches increases.
 
 
 
